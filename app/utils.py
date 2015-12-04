@@ -15,24 +15,21 @@ from __future__ import (
 
 import requests
 
+from urllib import urlencode, quote_plus
 from slugify import slugify
 
 
 def fetch(**kwargs):
     """Fetches realtime data and generates records"""
-    slug = kwargs['location'].replace(' ', '_')
-    base = '%s/%s/%s' % (kwargs['BASE_URL'], slug, kwargs['DIR'])
-    url = '%s/%s.%s' % (base, slug, kwargs['FILE_EXT'])
-    r = requests.get(url, stream=True)
-    print(r)
-
-    return {
-        'f': r.raw,
-        'ext': 'fixed',
-        'encoding': r.encoding,
-        'first_row': 3,
-        'has_header': True,
-        'widths': [0, 7, 16, 24, 32, 40]}
+    sub_query = kwargs['SUB_QUERY']
+    sub_query['CCode'] = kwargs['code']
+    sub_query['thisVariable'] = kwargs['metric']
+    sub_string = ','.join('"%s":"%s"' % (k, v) for k, v in sub_query.items())
+    sub_quote = '{%s}' % quote_plus(sub_string)
+    query = urlencode(kwargs['BASE_QUERY'])
+    url = '%s?%s&argumentCollection=%s' % (kwargs['BASE_URL'], query, sub_quote)
+    r = requests.get(url)
+    return {'records': r.json()}
 
 
 def get_name(group_name):
@@ -40,7 +37,8 @@ def get_name(group_name):
 
 
 def normalize(records, **kwargs):
-    return records
+    for month, value in enumerate(records):
+        yield {'value': value, 'month': month + 1}
 
 
 def filterer(record, **kwargs):
@@ -48,6 +46,9 @@ def filterer(record, **kwargs):
 
 
 def parse(record, **kwargs):
-    record['rid'] = '%s%s' % (slugify(kwargs['location']), record['year'])
-    record['country'] = kwargs['location']
+    record['rid'] = '%s-%s-%s' % (kwargs['code'], kwargs['metric'], record['month'])
+    record['metric'] = kwargs['metric']
+    record['description'] = kwargs['description']
+    record['code'] = kwargs['code']
+    record['country'] = kwargs['country']
     return record
