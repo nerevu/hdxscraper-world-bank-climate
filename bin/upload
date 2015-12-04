@@ -14,28 +14,20 @@ fi
 
 OID="acled"
 BASE="https://ds-ec2.scraperwiki.com/dghykmr/umkfikfub2ahqa2/cgi-bin/csv"
-TSOURCE="ACLED"
-TAGS="Conflict, Political violence, Protection, Protest, War"
-METHODOLOGY="http://www.acleddata.com/methodology/"
+TSOURCE="Climatic Research Unit (CRU)"
+TAGS=""
+METHODOLOGY="http://www.cru.uea.ac.uk/about-cru/history"
 
 echo "Uploading data to $URL..."
 
-{
-  read
-  while read -r line || [[ -n "$line" ]]; do
-    IFS=$'\t'
-    ROW=($line)
-
-    ckanny pk.create \
-      -ps "$TSOURCE" \
-      -t "${ROW[0]}" \
-      -n "${ROW[0]}" \
-      -f "${BASE}/${ROW[1]}.csv" \
-      -S "${ROW[2]}" \
-      -e "${ROW[3]}" \
-      -T "$TAGS" \
-      -m "$METHODOLOGY" \
-      -r "$URL" \
-      "$OID"
-  done
-} < "datasets/tables.tsv"
+ckanny pk.create \
+  -ps "$TSOURCE" \
+  -t "Average monthly temperature and rainfall - All Africa" \
+  -n "Average monthly temperature and rainfall - All Africa" \
+  -f "${BASE}/climate.csv" \
+  -S "1/1/1990" \
+  -e "12/31/2012" \
+  -T "$TAGS" \
+  -m "$METHODOLOGY" \
+  -r "$URL" \
+  "$OID"

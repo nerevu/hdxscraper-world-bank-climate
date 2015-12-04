@@ -16,9 +16,9 @@ from flask.ext.sqlalchemy import SQLAlchemy
 
 __version__ = '0.5.0'
 
-__title__ = 'hdxscraper-undp-climate'
+__title__ = 'hdxscraper-world-bank-climate'
 __author__ = 'Reuben Cummings'
-__description__ = ('UNDP Climate Change Data Collector')
+__description__ = ('World Bank Climate Change Data Collector')
 
 __email__ = 'reubano@gmail.com'
 __license__ = 'MIT'
