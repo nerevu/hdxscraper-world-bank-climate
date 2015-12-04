@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+# Creates private datasets in CKAN
+# usage bin/upload
+
+if [ $# -gt 0 ]; then
+  if [ "$1" == 'prod' ]; then
+    URL=`printenv CKAN_PROD_URL`
+  else
+    URL=`printenv CKAN_REMOTE_URL`
+  fi
+else
+  URL=`printenv CKAN_REMOTE_URL`
+fi
+
+OID="acled"
+BASE="https://ds-ec2.scraperwiki.com/dghykmr/umkfikfub2ahqa2/cgi-bin/csv"
+TSOURCE="ACLED"
+TAGS="Conflict, Political violence, Protection, Protest, War"
+METHODOLOGY="http://www.acleddata.com/methodology/"
+
+echo "Uploading data to $URL..."
+
+{
+  read
+  while read -r line || [[ -n "$line" ]]; do
+    IFS=$'\t'
+    ROW=($line)
+
+    ckanny pk.create \
+      -ps "$TSOURCE" \
+      -t "${ROW[0]}" \
+      -n "${ROW[0]}" \
+      -f "${BASE}/${ROW[1]}.csv" \
+      -S "${ROW[2]}" \
+      -e "${ROW[3]}" \
+      -T "$TAGS" \
+      -m "$METHODOLOGY" \
+      -r "$URL" \
+      "$OID"
+  done
+} < "datasets/tables.tsv"

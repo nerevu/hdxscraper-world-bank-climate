@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+# Creates private datasets in CKAN
+# usage bin/upload
+
+if [ $# -gt 0 ]; then
+  if [ "$1" == 'prod' ]; then
+    URL=`printenv CKAN_PROD_URL`
+  else
+    URL=`printenv CKAN_REMOTE_URL`
+  fi
+else
+  URL=`printenv CKAN_REMOTE_URL`
+fi
+
+slugify () {
+  # convert to lowercase, replace non alpha numerics with spaces and
+  # consolidate spaces
+  slug=`echo "$1" | tr A-Z a-z | tr -cs '[[:alnum:]]' ' ' | tr -s ' '`
+
+  # remove leading and trailing spaces, and replace remaining with dashes
+  SLUG=`echo "$slug" | sed 's/^ *//g' | sed 's/ *$//g' | tr ' ' '-'`
+}
+
+TSOURCE="ACLED"
+TAGS="Conflict, Political violence, Protection, Protest, War"
+METHODOLOGY="http://www.acleddata.com/methodology/"
+SLUG=""
+
+echo "Updating data on $URL..."
+
+{
+  read
+  while read -r line || [[ -n "$line" ]]; do
+    IFS=$'\t'
+    ROW=($line)
+    slugify "${ROW[0]}"
+
+    ckanny pk.update \
+      -s "$TSOURCE" \
+      -t "${ROW[0]}" \
+      -S "${ROW[2]}" \
+      -e "${ROW[3]}" \
+      -T "$TAGS" \
+      -m "$METHODOLOGY" \
+      -r "$URL" \
+      "$SLUG"
+  done
+} < "datasets/tables.tsv"

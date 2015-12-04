@@ -1,0 +1,1052 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ACLED-All-Africa-File_20150101-to-20151031_xls.xlsx HTTP/1.1" 200 3026578
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ACLED-All-Africa-File_20150101-to-20151031_xls.xlsx HTTP/1.1" 200 3026578
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ACLED-All-Africa-File_20150101-to-20151031_xls.xlsx HTTP/1.1" 200 3026578
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ACLED-All-Africa-File_20150101-to-20151031_xls.xlsx HTTP/1.1" 200 3026578
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ACLED-All-Africa-File_20150101-to-20151031_xls.xlsx HTTP/1.1" 200 3026578
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/11/ACLED-All-Africa-File_20150101-to-20151031_xls.xlsx HTTP/1.1" 200 3026578
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/10/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/10/ACLED-All-Africa-File_20150101-to-20151024_xls.xlsx HTTP/1.1" 200 2957423
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/10/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/10/ACLED-All-Africa-File_20150101-to-20151024_xls.xlsx HTTP/1.1" 200 2957423
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+DEBUG:populate:debug
+INFO:populate:info
+DEBUG:populate:debug
+INFO:populate:info
+WARNING:populate:warning
+DEBUG:populate:debug
+INFO:populate:info
+WARNING:populate:warning
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/10/ HTTP/1.1" 200 None
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.acleddata.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /wp-content/uploads/2015/10/ACLED-All-Africa-File_20150101-to-20151024_xls.xlsx HTTP/1.1" 200 2957423
+DEBUG:populate:Deleted 64 records from table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Deleted 0 records from table `ym201501`.
+DEBUG:populate:Inserted 16 records into table `ym201501`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201501`.
+DEBUG:populate:Deleted 64 records from table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Deleted 0 records from table `ym201502`.
+DEBUG:populate:Inserted 16 records into table `ym201502`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201502`.
+DEBUG:populate:Deleted 64 records from table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Deleted 0 records from table `ym201503`.
+DEBUG:populate:Inserted 16 records into table `ym201503`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201503`.
+DEBUG:populate:Deleted 64 records from table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Deleted 0 records from table `ym201504`.
+DEBUG:populate:Inserted 16 records into table `ym201504`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201504`.
+DEBUG:populate:Deleted 64 records from table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Deleted 0 records from table `ym201505`.
+DEBUG:populate:Inserted 16 records into table `ym201505`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201505`.
+DEBUG:populate:Deleted 64 records from table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Deleted 0 records from table `ym201506`.
+DEBUG:populate:Inserted 16 records into table `ym201506`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201506`.
+DEBUG:populate:Deleted 64 records from table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Deleted 0 records from table `ym201507`.
+DEBUG:populate:Inserted 16 records into table `ym201507`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201507`.
+DEBUG:populate:Deleted 64 records from table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Deleted 0 records from table `ym201508`.
+DEBUG:populate:Inserted 16 records into table `ym201508`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201508`.
+DEBUG:populate:Deleted 64 records from table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Deleted 0 records from table `ym201509`.
+DEBUG:populate:Inserted 16 records into table `ym201509`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201509`.
+DEBUG:populate:Deleted 64 records from table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Deleted 0 records from table `ym201510`.
+DEBUG:populate:Inserted 16 records into table `ym201510`.
+DEBUG:populate:Success! Inserted 64 records into table `ym201510`.
+DEBUG:populate:Deleted 3 records from table `ym201512`.
+DEBUG:populate:Deleted 0 records from table `ym201512`.
+DEBUG:populate:Inserted 3 records into table `ym201512`.
+DEBUG:populate:Success! Inserted 3 records into table `ym201512`.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data//Afghanistan/Observed/Mean/Timeseries/Absolute///Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data//Afghanistan/Observed/Mean/Timeseries/Absolute///Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data//Afghanistan/Observed/Mean/Timeseries/Absolute///Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data//Afghanistan/Observed/Mean/Timeseries/Absolute///Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data//Afghanistan/Observed/Mean/Timeseries/Absolute///Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data//Afghanistan/Observed/Mean/Timeseries/Absolute///Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.geog.ox.ac.uk
+DEBUG:requests.packages.urllib3.connectionpool:"GET /research/climate/projects/undp-cp/UNDP_data/Afghanistan/Observed/Mean/Timeseries/Absolute/Afghanistan.ts.obs.precip.ts.ensemblemean.abs.txt HTTP/1.1" 200 2358
+DEBUG:populate:Inserted 16 records into table `climate`.
+DEBUG:populate:Inserted 16 records into table `climate`.
+DEBUG:populate:Inserted 15 records into table `climate`.
+DEBUG:populate:Success! Inserted 47 records into table `climate`.

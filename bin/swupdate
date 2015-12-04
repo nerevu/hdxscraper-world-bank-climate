@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# -*- coding: utf-8 -*-
+
+# Install requirements and setup database
+
+git reset --hard HEAD
+git pull
+source venv/bin/activate
+pip install -r requirements.txt
+manage -m Scraper setup
