@@ -12,8 +12,8 @@ else
   URL=`printenv CKAN_REMOTE_URL`
 fi
 
-OID="acled"
-BASE="https://ds-ec2.scraperwiki.com/dghykmr/umkfikfub2ahqa2/cgi-bin/csv"
+OID="hdx"
+BASE="https://ds-ec2.scraperwiki.com/wrqvxsr/tt43kpn71mzxeqn/cgi-bin/csv"
 TSOURCE="Climatic Research Unit (CRU)"
 TAGS=""
 METHODOLOGY="http://www.cru.uea.ac.uk/about-cru/history"
