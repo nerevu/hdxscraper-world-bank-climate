@@ -16,5 +16,5 @@ tabutils==0.23.1
 beautifulsoup4==4.4.1
 pkutils==0.6.1
 swutils==0.11.0
-ckanny==0.14.0
-slugify
+ckanny==0.17.2
+python-slugify==1.1.4
